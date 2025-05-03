@@ -1,4 +1,4 @@
-# Elucidate 5.0 - The Case Study Competition
+# Elucidate 5.0 - The Case Study Competition By IIM Amritsar
 
 ## Information
 - **Team:** Alpha
