@@ -1,4 +1,4 @@
-# ICMME-25 Poster Presentation
+# International Conference on Mechanical & Materials Engineering (ICMME) 2025
 
 ## Information
 - **Leader:** Rishabh Jain
