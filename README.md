@@ -1,11 +1,11 @@
 # Projects
 
-- [Elucidate 25]()
+- [Elucidate 5.0 - The Case Study Competition]()
   
-- [Ideathon 25](https://github.com/RISHABH12005/Projects/blob/main/Ideathon-25.md)
+- [Ideathon 2025](https://github.com/RISHABH12005/Projects/blob/main/Ideathon-25.md)
   
-- [SBI CYI 25](https://github.com/RISHABH12005/Projects/blob/main/SBI-CYI-25.md)
+- [SBI College Youth Ideathon (CYI) 2025](https://github.com/RISHABH12005/Projects/blob/main/SBI-CYI-25.md)
   
-- [ICMME 25](https://github.com/RISHABH12005/Projects/blob/main/ICMME-25.md)
+- [International Conference on Mechanical & Materials Engineering (ICMME) 2025](https://github.com/RISHABH12005/Projects/blob/main/ICMME-25.md)
   
-- [Hacksagon 25]()
+- [Hacksagon 2025]()
