@@ -1,4 +1,4 @@
-# SBI College Youth Ideathon 2025
+# SBI College Youth Ideathon 2025 By (MEPSC) IIT Delhi & ThinkStartup
 
 ## Information
 - **Team:** Bhrama
