@@ -8,6 +8,6 @@
   
 - [International Conference on Mechanical & Materials Engineering (ICMME) 2025](https://github.com/RISHABH12005/Projects/blob/main/ICMME-25.md)
   
-- [Trust Lab FOSSx](https://github.com/RISHABH12005/Projects/blob/main/FOSSx-25.md)
+- [Trust Lab FOSSx 2025](https://github.com/RISHABH12005/Projects/blob/main/FOSSx-25.md)
   
 - [Hacksagon 2025](https://github.com/RISHABH12005/Projects/blob/main/Hacksagon-25.md)
