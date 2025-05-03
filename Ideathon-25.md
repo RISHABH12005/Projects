@@ -19,5 +19,5 @@
 - [1st Place – Ideathon & Pitch Deck 2025](https://www.instagram.com/p/DG4xGu4CANw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 ## About
-Our project, titled **Learning Management System (LMS)**, aims to create an open-source, efficient, and user-friendly platform for managing educational content and online learning experiences.  
-We focused on solving real-world challenges faced by educators and learners by integrating features like course management, content delivery, assessment modules, and collaboration tools.
+- Our project, titled **Learning Management System (LMS)**, aims to create an open-source, efficient, and user-friendly platform for managing educational content and online learning experiences.  
+- We focused on solving real-world challenges faced by educators and learners by integrating features like course management, content delivery, assessment modules, and collaboration tools.
