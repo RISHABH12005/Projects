@@ -19,5 +19,5 @@
 - [1st Place – Ideathon & Pitch Deck 2025](https://www.instagram.com/p/DG4xGu4CANw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 ## About
-- [LMS](https://github.com/RISHABH12005/LMS/blob/main/README.md)
+- [Livestock Monitoring System (LMS)](https://github.com/RISHABH12005/LMS/blob/main/README.md)
 - We are proud to have won **First Prize** at the Ideathon Event!
