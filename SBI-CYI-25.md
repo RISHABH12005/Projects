@@ -1,7 +1,7 @@
 # SBI College Youth Ideathon 2025 By (MEPSC) IIT Delhi & ThinkStartup
 
 ## Information
-- **Team:** Bhrama
+- **Team:** BHRAMA
 - **UID:** [CYIF20323](https://www.google.com/search?q=CYIF20323)
 - **Leader:** Rishabh Jain
 - **Members:** Sagar Seth, Siddhant Vashisth
