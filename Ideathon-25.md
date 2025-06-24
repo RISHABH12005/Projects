@@ -19,4 +19,4 @@
 
 ## About
 - [Livestock Monitoring System (LMS)](https://github.com/RISHABH12005/LMS/blob/main/README.md)
-- We are proud to have won **First Prize** at the Ideathon Event!
+- We have won **First Prize** at the Ideathon Event !
