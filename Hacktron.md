@@ -1,4 +1,4 @@
-# Hacktron By JUET & ISF(Code Conquerors)
+# Hacktron By ISF (Code Conquerors) at JUET
 
 ## Information
 - **Team:** Bit_Insane
