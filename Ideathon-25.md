@@ -4,7 +4,6 @@
 - **Team:** Bhrama
 - **Leader:** Rishabh Jain
 - **Members:** Sagar Seth, Siddhant Vashisth
-- **GitHub:** [RISHABH12005](https://github.com/RISHABH12005)
 
 ## Project
 - [Documentation](https://drive.google.com/file/d/1mpX0rp3fOHY-sfb0Rhgvdsz6skg4wsOL/view?usp=drive_link)
