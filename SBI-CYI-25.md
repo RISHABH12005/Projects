@@ -24,6 +24,6 @@
 
 ## About
 This project was submitted as part of the SBI College Youth Ideathon 2025 competition, under UID **CYIF20323**.  
-Our innovative idea addresses the development of an **Open Source Learning Management System (LMS)** that provides a platform for users to access, manage, and create educational content efficiently. 
+Our innovative idea addresses the development of an **Open Source [Learning Management System (LMS)](https://github.com/RISHABH12005/LMS)** that provides a platform for users to access, manage, and create educational content efficiently. 
 
 We are proud to be among the Top 25 Challengers selected in this national competition!
