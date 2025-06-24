@@ -4,7 +4,6 @@
 - **Team:** Bit_Insane
 - **Leader:** Ranjan Mishra
 - **Members:** Rishabh Jain, Sagar Seth, Umang Shukla
-- **GitHub:** [RISHABH12005](https://github.com/RISHABH12005)
 
 ## Problem Statement
 - [Harvest Sense](https://github.com/bit-insane)
