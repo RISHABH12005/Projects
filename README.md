@@ -10,4 +10,6 @@
   
 - [Trust Lab FOSSx 2025](https://github.com/RISHABH12005/Projects/blob/main/FOSSx-25.md)
   
+- [Hacktron](https://github.com/RISHABH12005/Projects/blob/main/Hacktron.md)
+  
 - [Hacksagon 2025](https://github.com/RISHABH12005/Projects/blob/main/Hacksagon-25.md)
