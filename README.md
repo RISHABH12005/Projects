@@ -1,4 +1,4 @@
-# Projects
+# Achievements
 
 - [Elucidate 5.0 - The Case Study Competition](https://github.com/RISHABH12005/Projects/blob/main/Elucidate-5.0.md)
   
