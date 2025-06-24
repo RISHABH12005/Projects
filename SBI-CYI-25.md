@@ -5,7 +5,6 @@
 - **UID:** [CYIF20323](https://www.google.com/search?q=CYIF20323)
 - **Leader:** Rishabh Jain
 - **Members:** Sagar Seth, Siddhant Vashisth
-- **GitHub:** [RISHABH12005](https://github.com/RISHABH12005)
 
 ## Project Video
 - [YouTube](https://www.youtube.com/watch?v=-Eb9HqYakSQ)
