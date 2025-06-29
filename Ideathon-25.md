@@ -7,7 +7,7 @@
 
 ## Project
 - [Documentation](https://drive.google.com/file/d/1mpX0rp3fOHY-sfb0Rhgvdsz6skg4wsOL/view?usp=drive_link)
-- [Prototype Video](https://drive.google.com/file/d/1FoeUGYo0gPQQ7hzIOS72E_aX9h2rN_Oi/view?usp=drive_link)
+- [Prototype](https://drive.google.com/file/d/1FoeUGYo0gPQQ7hzIOS72E_aX9h2rN_Oi/view?usp=drive_link)
 - [Repository](https://github.com/RISHABH12005/LMS)
 
 ## LinkedIn Posts
