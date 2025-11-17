@@ -13,3 +13,7 @@
 - [Hacktron](https://github.com/RISHABH12005/Projects/blob/main/Hacktron.md)
   
 - [Hacksagon 2025](https://github.com/RISHABH12005/Projects/blob/main/Hacksagon-25.md)
+
+- [Smart India Hackathon 2025](https://github.com/RISHABH12005/Projects/blob/main/SIH-25.md)
+  
+- [TekSoft Labs](https://github.com/RISHABH12005/Projects/blob/main/TekSoft-Labs.md)
