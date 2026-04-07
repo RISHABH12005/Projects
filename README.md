@@ -17,3 +17,9 @@
 - [Smart India Hackathon 2025](https://github.com/RISHABH12005/Projects/blob/main/SIH-25.md)
   
 - [TEKSoft Labs Private Limited](https://github.com/RISHABH12005/Projects/blob/main/TekSoft-Labs-Pvt-Ltd.md)
+
+- [FOSSEE Open Source Hardware Hackathon 2026]()
+
+- [Bharat AI-SoC Student Challenge]()
+
+- [FOSSEE Semester Long Internship 2026]()
