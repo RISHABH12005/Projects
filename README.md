@@ -1,6 +1,6 @@
 # Achievements
 
-- [Elucidate 5.0 - The Case Study Competition](https://github.com/RISHABH12005/Projects/blob/main/Elucidate-5.0.md)
+- [Elucidate 5.0 - The Case Study Competition](https://github.com/RISHABH12005/Projects/blob/main/2025/Elucidate-5.0.md)
   
 - [Ideathon 2025](https://github.com/RISHABH12005/Projects/blob/main/Ideathon-25.md)
   
