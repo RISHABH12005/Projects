@@ -18,7 +18,7 @@
   
 - [TEKSoft Labs Private Limited](https://github.com/RISHABH12005/Projects/blob/main/2025/TekSoft-Labs-Pvt-Ltd.md)
 
-- [FOSSEE Open Source Hardware Hackathon 2026](https://github.com/RISHABH12005/Projects/blob/main/2026/OSHW-Hackathon-26.md)
+- [Open Source Hardware Hackathon 2026](https://github.com/RISHABH12005/Projects/blob/main/2026/OSHW-Hackathon-26.md)
 
 - [Bharat AI-SoC Student Challenge](https://github.com/RISHABH12005/Projects/blob/main/2026/Bharat-AI-SoC.md)
 
