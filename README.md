@@ -22,4 +22,6 @@
 
 - [Bharat AI-SoC Student Challenge](https://github.com/RISHABH12005/Projects/blob/main/2026/Bharat-AI-SoC.md)
 
-- [FOSSEE Semester Long Internship 2026](https://github.com/RISHABH12005/Projects/blob/main/2026/FOSSEE-eSim.md)
+- [FOSSEE Semester Long Internship 2026](https://github.com/RISHABH12005/Projects/blob/main/2026/FOSSEE-SLIA-26.md)
+
+- [FOSSEE Summer Fellowship 2026](https://github.com/RISHABH12005/Projects/blob/main/2026/FOSSEE-SF-26.md)
