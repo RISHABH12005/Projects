@@ -6,6 +6,7 @@
 
 ## Project
 ### Problem Statements -  Offline Privacy-Preserving Hindi Voice Assistant on Raspberry Pi
+- [Finalist Announcement PS1](https://arm-education.github.io/Arm-Developer-Labs/Challenge_Page.html)
 - [GitHub](https://github.com/RISHABH12005/Bharat-AI-SoC/tree/main)
 - [Report](https://drive.google.com/file/d/1G0R0Gi8RyRrfVYtysRa4qVJBeAl0Wc38/view?usp=sharing)
 - [Video](https://www.youtube.com/watch?v=ryDRLKcCcr8)
